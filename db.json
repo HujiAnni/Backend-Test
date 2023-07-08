@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "Andreanne Heidenreich",
+      "dob": "1987-6-15",
+      "email": "Andreanne_Heidenreich@gmail.com",
+      "username": "Andreanne85",
+      "password": "k7eBn9V4ef6wY03",
+      "phone": "420-315-1356",
+      "streetaddress": "8255 Ivory Views",
+      "citystatezip": "Skilesfort, NC 84719-9787",
+      "latitude": "-65.2280",
+      "longitude": "-161.9856",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/410.jpg"
+    },
+    {
+      "name": "Marquise West",
+      "dob": "1990-8-26",
+      "email": "Marquise.West21@gmail.com",
+      "username": "Marquise_West5",
+      "password": "3FvPILSlqOeHIgX",
+      "phone": "492.910.5879 x15532",
+      "streetaddress": "03799 Abby Summit",
+      "citystatezip": "North Jaunitaville, IN 25091-7634",
+      "latitude": "-28.4249",
+      "longitude": "28.7469",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/738.jpg"
+    },
+    {
+      "name": "Queenie Konopelski",
+      "dob": "1953-10-24",
+      "email": "Queenie49@yahoo.com",
+      "username": "Queenie40",
+      "password": "eCUDZYRLmmfIYa3",
+      "phone": "700-777-1920 x0468",
+      "streetaddress": "7108 Brakus Fork",
+      "citystatezip": "Balistrerifurt, OK 37060",
+      "latitude": "0.1985",
+      "longitude": "-93.0146",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/765.jpg"
+    },
+    {
+      "name": "Kelli Cormier",
+      "dob": "1980-8-4",
+      "email": "Kelli.Cormier@yahoo.com",
+      "username": "Kelli.Cormier25",
+      "password": "B6mhHuqmcVuiU3a",
+      "phone": "756-864-5667",
+      "streetaddress": "03145 Rowena Branch",
+      "citystatezip": "Port Easton, RI 36796",
+      "latitude": "-65.0318",
+      "longitude": "93.7099",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/733.jpg"
+    },
+    {
+      "name": "Leland Ebert",
+      "dob": "1943-3-14",
+      "email": "Blanche45@yahoo.com",
+      "username": "Blanche93",
+      "password": "jOTVLl6PjrRz6zb",
+      "phone": "881-897-7139",
+      "streetaddress": "827 Hollie Spurs",
+      "citystatezip": "Weissnatville, WY 03237-0303",
+      "latitude": "46.2892",
+      "longitude": "-123.6190",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/994.jpg"
+    },
+    {
+      "name": "Walter Wisozk",
+      "dob": "1976-9-2",
+      "email": "Thaddeus84@gmail.com",
+      "username": "Thaddeus.Senger13",
+      "password": "jeFc7zZ3Jhcld0X",
+      "phone": "(723) 248-2744",
+      "streetaddress": "30208 Anderson Oval",
+      "citystatezip": "East Darrionworth, IL 17654",
+      "latitude": "81.7211",
+      "longitude": "-24.9344",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/81.jpg"
+    },
+    {
+      "name": "Jaime Ondricka",
+      "dob": "1989-8-17",
+      "email": "Arely_Dare@yahoo.com",
+      "username": "Arely11",
+      "password": "IxnokGcYAXjGJib",
+      "phone": "997.602.0717",
+      "streetaddress": "0522 Zoey Trace",
+      "citystatezip": "Bryan, IN 57219",
+      "latitude": "73.0080",
+      "longitude": "29.8418",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/604.jpg"
+    }
+  ]
+}
